@@ -18,7 +18,7 @@ License: GPL (>= 2)
 BugReports: https://github.com/PMassicotte/gtrendsR/issues
 URL: https://github.com/PMassicotte/gtrendsR
 Depends:
-    R (>= 3.2.0)
+    R (>= 2.0.0)
 LazyData: yes
 Imports:
     ggplot2,
